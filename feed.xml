@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://lucianico.github.io/DG_GPA/">
+    <title>GP GPA</title>
+    <link href="https://lucianico.github.io/DG_GPA//feed.xml" rel="self" >
+    <link href="https://lucianico.github.io/DG_GPA/" >
+    <updated>2025-06-02T18:51:54Z</updated>
+    <id>https://lucianico.github.io/DG_GPA/</id>
+        <entry>
+            <title>
+                DG Second page
+                
+            </title>
+            <updated>2025-06-02T18:51:46Z</updated>
+            <id>https://lucianico.github.io/DG_GPA//01-notes/dg-second-page/</id>
+            <content type="html">
+                &lt;p&gt;This is the second page.&lt;/p&gt;
+
+            </content>
+            <link href="https://lucianico.github.io/DG_GPA//01-notes/dg-second-page/" >
+        </entry>
+        <entry>
+            <title>
+                DG GPA Wellcome
+                
+            </title>
+            <updated>2025-06-02T18:51:46Z</updated>
+            <id>https://lucianico.github.io/DG_GPA//</id>
+            <content type="html">
+                &lt;p&gt;This is the home page.&lt;/p&gt;
+
+            </content>
+            <link href="https://lucianico.github.io/DG_GPA//" >
+        </entry>
+</feed>
