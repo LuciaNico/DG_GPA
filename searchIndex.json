@@ -1,1 +1,17 @@
-[]
+[
+{
+		"title": "DG GPA Wellcome",
+		"date":"Mon Jun 02 2025 18:50:18 GMT+0000 (Coordinated Universal Time)",
+		"url":"/",
+		"content": "This is the home page.",
+		"tags": [ "note","gardenEntry"]
+},
+
+{
+		"title": "DG Second page",
+		"date":"Mon Jun 02 2025 18:50:18 GMT+0000 (Coordinated Universal Time)",
+		"url":"/01-notes/dg-second-page/",
+		"content": "This is the second page.",
+		"tags": [ "note"]
+}
+]
